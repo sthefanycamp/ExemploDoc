@@ -1,1 +1,1 @@
-Novo arquivo exemplo.1
+Editando arquivo para branch nova
